@@ -28,10 +28,9 @@ To install i used PyPi package
 - If tasks for sendmail at specific time is false do not send mail else send an email.
 
 # Process
-Write a base executor class with python
-Write a base sensor class with python for checking time
-Write a trigger rule class for sending triggers based on conditional nodes
+- Write a base executor class with python
+- Write a base sensor class with python for checking time
+- Write a trigger rule class for sending triggers based on conditional nodes
 
-
-
- 
+I ran into lots of issues regarding setting up a webserver locally with airflow, this may be due to depreciated dependencies or improper installation.
+I hope you can run this program without any hiccups, cheers.
