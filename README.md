@@ -13,8 +13,8 @@ To install i used PyPi package
 - pip install apache-airflow (there’s a more detailed setup)
 - Switch from main branch to master
 - Check airflow documentation in order to setup instance on your computer
-- Start web server 
-- Create a login detail and login
+- Start airflow web server 
+- Login with provided username and password
 - Access DAGS
 
 # Architecture
