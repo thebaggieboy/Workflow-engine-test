@@ -33,4 +33,5 @@ To install i used PyPi package
 - Write a trigger rule class for sending triggers based on conditional nodes
 
 I ran into lots of issues regarding setting up a webserver locally with airflow, this may be due to depreciated dependencies or improper installation.
+As a result i am still trying to actively fix it, however i am submitting my test based on a working implementation.
 I hope you can run this program without any hiccups, cheers.
